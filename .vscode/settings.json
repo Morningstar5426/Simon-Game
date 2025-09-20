@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lfsr.h": "c",
+        "qutyserial.h": "c",
+        "stdio.h": "c",
+        "spi.h": "c",
+        "interrupt.h": "c",
+        "stdint.h": "c"
+    }
+}
